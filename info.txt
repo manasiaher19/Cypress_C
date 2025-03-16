@@ -1,0 +1,48 @@
+Step 1
+Download and install visual studio code 
+https://code.visualstudio.com/download
+Step 2
+Download and install node js
+https://nodejs.org/en/download
+
+
+Installation steps for cypress
+1. create a folder and open with visual studio code
+2. open terminal and run below 3 commands - (wait for command to execute) 
+3. npm init -y               ------ pakage.json file created
+4. npm install cypress --save-dev      ------ cypress install latest version
+5. npx cypress open          ------ cypress test runner will open
+---------------------------------------------------------------------------------
+
+command to run cypress spec file from terminal
+npx cypress run --spec "cypress\e2e\3-basics\2.contactUs.cy.js" --headed --browser chrome
+
+//to stop xhr in e2e.js
+const app = window.top;
+if (!app.document.head.querySelector("[data-hide-command-log-request]")) {
+  const style = app.document.createElement("style");
+  style.innerHTML = ".command-name-request, .command-name-xhr { display: none }";
+  style.setAttribute("data-hide-command-log-request", "");
+  app.document.head.appendChild(style);
+}
+
+-----------------------cypress test in parallel------------------------------------
+
+run cypress test cases in parallel
+step 1 : install 
+npm install cypress-parallel 
+
+step 2 : in package .json create following script
+
+"test" : "npx cypress run --headed"
+"cypress:parallel" : "cypress-parallel -d cypress/e2e/parallelExe/ -t 2 -s test"
+ // run with npm run cypress:parallel  
+
+-----------------------------------------------------------------------------------
+
+-------------------reporters in cypress---------------------------------------------
+cypress-mochawesome-reporter:
+
+https://github.com/LironEr/cypress-mochawesome-reporter
+
+ru : npx cypress run --spec cypress\e2e\3-Basic\1.Login.cy.js --browser edge --headed

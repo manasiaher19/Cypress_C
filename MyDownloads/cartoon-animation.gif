@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+
+<html>
+  <head>
+    <script src="/js/vendor/298279967.js"></script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>The Internet</title>
+    <link href="/css/app.css" rel="stylesheet">
+    <link href="/css/font-awesome.css" rel="stylesheet">
+    <script src="/js/vendor/jquery-1.11.3.min.js"></script>
+    <script src="/js/vendor/jquery-ui-1.11.4/jquery-ui.js"></script>
+    <script src="/js/foundation/foundation.js"></script>
+    <script src="/js/foundation/foundation.alerts.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </head>
+  <body>
+    <div class="row">
+      <div id="flash-messages" class="large-12 columns">
+      
+        
+      
+        
+      
+        
+      
+      </div>
+    </div>
+    <div class="row">
+      <a href="https://github.com/tourdedave/the-internet"><img style="position: absolute; top: 0; right: 0; border: 0;" src="/img/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>
+      <div id="content" class="large-12 columns">
+        <div class="example">
+  <h3>File Downloader</h3>
+  
+    <a href="download/list.html">list.html</a>
+    </br>
+  
+    <a href="download/41DDF9BC-A0BA-4BEF-90CA-07D5C1751920.png">41DDF9BC-A0BA-4BEF-90CA-07D5C1751920.png</a>
+    </br>
+  
+    <a href="download/SomeFile.txt">SomeFile.txt</a>
+    </br>
+  
+    <a href="download/some-file.txt">some-file.txt</a>
+    </br>
+  
+    <a href="download/formau.xlsx">formau.xlsx</a>
+    </br>
+  
+    <a href="download/download.jpg">download.jpg</a>
+    </br>
+  
+    <a href="download/cricket.jfif">cricket.jfif</a>
+    </br>
+  
+    <a href="download/sample_media_file.png">sample_media_file.png</a>
+    </br>
+  
+    <a href="download/FileUploadDemo.png">FileUploadDemo.png</a>
+    </br>
+  
+    <a href="download/excelParaValidar.xlsx">excelParaValidar.xlsx</a>
+    </br>
+  
+    <a href="download/approved.png">approved.png</a>
+    </br>
+  
+    <a href="download/renamed_file.txt">renamed_file.txt</a>
+    </br>
+  
+    <a href="download/samplePDF.pdf">samplePDF.pdf</a>
+    </br>
+  
+    <a href="download/sample.pdf">sample.pdf</a>
+    </br>
+  
+    <a href="download/Delta Dreamers ppt.pptx">Delta Dreamers ppt.pptx</a>
+    </br>
+  
+    <a href="download/bb.txt">bb.txt</a>
+    </br>
+  
+    <a href="download/UnifiDeatailOfEachCebter.xlsx">UnifiDeatailOfEachCebter.xlsx</a>
+    </br>
+  
+    <a href="download/spectrum-logo.png">spectrum-logo.png</a>
+    </br>
+  
+    <a href="download/logotitle.png">logotitle.png</a>
+    </br>
+  
+    <a href="download/selenium-snapshot.png">selenium-snapshot.png</a>
+    </br>
+  
+    <a href="download/selenide-intro.txt">selenide-intro.txt</a>
+    </br>
+  
+    <a href="download/Sticker (6).pdf">Sticker (6).pdf</a>
+    </br>
+  
+    <a href="download/WIN_20220928_12_45_38_Pro.jpg">WIN_20220928_12_45_38_Pro.jpg</a>
+    </br>
+  
+    <a href="download/Saikat Mandal.pdf">Saikat Mandal.pdf</a>
+    </br>
+  
+    <a href="download/pexels-matheus-guimarães-599492.jpg">pexels-matheus-guimarães-599492.jpg</a>
+    </br>
+  
+    <a href="download/sample_queries.txt">sample_queries.txt</a>
+    </br>
+  
+    <a href="download/FileUploadTest.txt">FileUploadTest.txt</a>
+    </br>
+  
+    <a href="download/Screenshot 2025-01-27 122111.png">Screenshot 2025-01-27 122111.png</a>
+    </br>
+  
+    <a href="download/SingleFile.txt">SingleFile.txt</a>
+    </br>
+  
+    <a href="download/cartoon-animation.gif">cartoon-animation.gif</a>
+    </br>
+  
+    <a href="download/srujan.jpg">srujan.jpg</a>
+    </br>
+  
+    <a href="download/sample.txt">sample.txt</a>
+    </br>
+  
+    <a href="download/Excel.xlsx">Excel.xlsx</a>
+    </br>
+  
+    <a href="download/upload-me.txt">upload-me.txt</a>
+    </br>
+  
+    <a href="download/sm.jpg">sm.jpg</a>
+    </br>
+  
+    <a href="download/650602b2c3871942b4779361db29f21c.jpg">650602b2c3871942b4779361db29f21c.jpg</a>
+    </br>
+  
+    <a href="download/puppy.png">puppy.png</a>
+    </br>
+  
+    <a href="download/zero_bytes_file.txt">zero_bytes_file.txt</a>
+    </br>
+  
+    <a href="download/LambdaTest.txt">LambdaTest.txt</a>
+    </br>
+  
+    <a href="download/Test.txt">Test.txt</a>
+    </br>
+  
+    <a href="download/college3.jpg">college3.jpg</a>
+    </br>
+  
+    <a href="download/not_empty.txt">not_empty.txt</a>
+    </br>
+  
+    <a href="download/Jpeg_with_exif.jpeg">Jpeg_with_exif.jpeg</a>
+    </br>
+  
+    <a href="download/carddata1.txt">carddata1.txt</a>
+    </br>
+  
+    <a href="download/test.txt">test.txt</a>
+    </br>
+  
+    <a href="download/Test (4).txt">Test (4).txt</a>
+    </br>
+  
+    <a href="download/sample-zip-file.zip">sample-zip-file.zip</a>
+    </br>
+  
+    <a href="download/PORTAFOLIO PRIMER PARCIAL.docx">PORTAFOLIO PRIMER PARCIAL.docx</a>
+    </br>
+  
+    <a href="download/example.json">example.json</a>
+    </br>
+  
+    <a href="download/TestJPEG.jpeg">TestJPEG.jpeg</a>
+    </br>
+  
+    <a href="download/Test.xlsx">Test.xlsx</a>
+    </br>
+  
+    <a href="download/TextDoc.txt">TextDoc.txt</a>
+    </br>
+  
+    <a href="download/sc1.png">sc1.png</a>
+    </br>
+  
+    <a href="download/users.json">users.json</a>
+    </br>
+  
+    <a href="download/webdriverIO.png">webdriverIO.png</a>
+    </br>
+  
+    <a href="download/examplefile.json">examplefile.json</a>
+    </br>
+  
+    <a href="download/20MB.bin">20MB.bin</a>
+    </br>
+  
+    <a href="download/UploadFileExample.txt">UploadFileExample.txt</a>
+    </br>
+  
+    <a href="download/post_assessment.sql">post_assessment.sql</a>
+    </br>
+  
+    <a href="download/html basic elements.html">html basic elements.html</a>
+    </br>
+  
+    <a href="download/pasta.jpg">pasta.jpg</a>
+    </br>
+  
+    <a href="download/testing.pdf">testing.pdf</a>
+    </br>
+  
+    <a href="download/register.png">register.png</a>
+    </br>
+  
+    <a href="download/107314dd578371a7.png">107314dd578371a7.png</a>
+    </br>
+  
+    <a href="download/Image.PNG">Image.PNG</a>
+    </br>
+  
+    <a href="download/xb1wgvn9xu_Screenshot (2).png">xb1wgvn9xu_Screenshot (2).png</a>
+    </br>
+  
+    <a href="download/image.png">image.png</a>
+    </br>
+  
+    <a href="download/Resume JASIM CK resume1.pdf">Resume JASIM CK resume1.pdf</a>
+    </br>
+  
+    <a href="download/image.jpg">image.jpg</a>
+    </br>
+  
+    <a href="download/Screenshot 2024-07-31 184142.png">Screenshot 2024-07-31 184142.png</a>
+    </br>
+  
+    <a href="download/PseudoCode Assignments.docx">PseudoCode Assignments.docx</a>
+    </br>
+  
+    <a href="download/UC_Browser_on_iOS.png">UC_Browser_on_iOS.png</a>
+    </br>
+  
+    <a href="download/random_data.txt">random_data.txt</a>
+    </br>
+  
+    <a href="download/notesHTMLandCSS.txt">notesHTMLandCSS.txt</a>
+    </br>
+  
+</div>
+
+      </div>
+    </div>
+    <div id='page-footer' class="row">
+      <div class="large-4 large-centered columns">
+        <hr>
+        <div style="text-align: center;">Powered by <a target="_blank" href="http://elementalselenium.com/">Elemental Selenium</a></div>
+      </div>
+    </div>
+  </body>
+</html>

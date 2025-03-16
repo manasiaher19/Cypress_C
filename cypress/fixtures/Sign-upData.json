@@ -1,0 +1,18 @@
+{
+    "User1": {
+        "name": "Manasi Aher",
+        "email": "manasi@gmail.com"
+    },
+    "User2": {
+        "name": "Diksha Gunjal",
+        "email": "diksha@gmail.com"
+    },
+    "User3": {
+        "name": "Janhavi",
+        "email": "janhavi@gmail.com"
+    },
+    "User4": {
+        "name": "Meher",
+        "email": "Ameher@gmail.com"
+    }
+}

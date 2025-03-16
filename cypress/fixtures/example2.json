@@ -1,0 +1,20 @@
+{
+  "user1": {
+    "fname": "Manasi",
+    "lname": "Aher",
+    "email": "manasi@gmail.com",
+    "comment": "Fixtures are a great way to mock data for responses to routes"
+  },
+  "user2": {
+    "fname": "Manish",
+    "lname": "Aher",
+    "email": "manishA@gmail.com",
+    "comment": "Fixtures are a great way to mock data for responses to routes"
+  },
+  "user3": {
+    "fname": "mayuri",
+    "lname": "Aher",
+    "email": "mayuA@gmail.com",
+    "comment": "Fixtures are a great way to mock data for responses to routes"
+  }
+}

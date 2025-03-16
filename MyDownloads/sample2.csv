@@ -1,0 +1,21 @@
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+<div class="container">
+    <a class="mydownload" href="sample.csv" download>
+        Click Here to download
+    </a>
+    <br/><br/>
+    <button id ="viewimage" type="submit" onclick="window.open('image.jpeg')">View Image</button><br/>
+
+    <button id ="download" type="submit" onclick="window.open('sample2.csv')">Download File</button>
+
+    <a class="docfile" href="32mb.docx" download>
+        32 MB Doc File
+    </a>
+</div>    
+</body>
+</html>

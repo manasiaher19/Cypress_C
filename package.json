@@ -1,0 +1,26 @@
+{
+  "name": "cypress_c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prod-test": "npx cypress run --spec 'cypress/e2e/3-Basic/22.Enviroments.cy.js' --browser chrome --headed --config-file prod.config.js",
+    "stage-test": "npx cypress run --spec 'cypress/e2e/3-Basic/22.Enviroments.cy.js' --browser chrome --headed --config-file stage.config.js",
+    "My-Test": "npx cypress run --headed",
+    "cypress:parallel": "cypress-parallel -d cypress/e2e/11.CypressParallel/ -t 3 -s My-Test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.15.2",
+    "cypress-downloadfile": "^1.2.4",
+    "cypress-parallel": "^0.14.0",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "cy-verify-downloads": "^0.2.6",
+    "cypress-mochawesome-reporter": "^3.8.2"
+  }
+}
